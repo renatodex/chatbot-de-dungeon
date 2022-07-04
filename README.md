@@ -15,4 +15,4 @@ Since this is complex, and we still need to understand what will emerge in the e
 ## Contributors
 
 - Renato Alves (renatodex@gmail.com)
-- Jorge Feldman ([@jotafeldmann](https://github.com/jotafeldmann))
+- Jorge Feldmann ([@jotafeldmann](https://github.com/jotafeldmann))
